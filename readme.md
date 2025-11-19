@@ -4,7 +4,7 @@
   <img src="/_image/banner.jpg" alt="TrendRadar Banner" width="50%">
 </a>
 
-🚀 最快<strong>30秒</strong>部署的化妆品行业热点助手 —— 告别无效刷屏，聚焦美妆护肤资讯
+🚀 Global Beauty & Cosmetics Trend Radar — Track beauty industry trends from US, Europe & Asia in <strong>30 seconds</strong>
 
 <a href="https://trendshift.io/repositories/14726" target="_blank"><img src="https://trendshift.io/api/badge/repositories/14726" alt="sansan0%2FTrendRadar | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
@@ -37,7 +37,7 @@
 
 </div>
 
-> 本项目以轻量、易部署为目标，专注于化妆品行业热点资讯聚合
+> Lightweight & Easy Deployment — Focused on global beauty & cosmetics industry trend aggregation
 
 ## 📑 快速导航
 
@@ -147,37 +147,38 @@
 
 </details>
 
-## 💄 化妆品行业专属配置
+## 💄 Global Beauty Industry Configuration
 
-本项目已针对**化妆品行业**进行专门配置优化：
+This project is specifically optimized for the **international beauty & cosmetics industry**:
 
-- 🎯 **聚焦美妆平台**：小红书、抖音、微博等美妆内容聚集地
-- 🏷️ **行业关键词库**：涵盖国际大牌、国货品牌、热门成分、美妆趋势等300+关键词
-- 📊 **品牌监控**：雅诗兰黛、兰蔻、花西子、完美日记等中外知名品牌实时追踪
-- 🧪 **成分追踪**：烟酰胺、玻尿酸、A醇等热门成分讨论热度监测
-- 👨‍🎨 **KOL动态**：李佳琦、薇娅等头部美妆博主相关资讯第一时间掌握
-- 📈 **行业趋势**：新品发布、联名款、成分党、医美级等美妆热点趋势
+- 🎯 **Global Platforms**: Hacker News, Product Hunt, Reddit, GitHub and more tech/business platforms
+- 🏷️ **300+ Keywords**: International brands, K-Beauty, J-Beauty, ingredients, trends in English
+- 📊 **Brand Monitoring**: Estée Lauder, Lancôme, Fenty Beauty, Glossier, Sulwhasoo & more
+- 🧪 **Ingredient Tracking**: Niacinamide, Hyaluronic Acid, Retinol, Vitamin C trends
+- 👨‍🎨 **Influencer Watch**: James Charles, Huda Kattan, NikkieTutorials, Hyram updates
+- 📈 **Industry Trends**: Product launches, collabs, clean beauty, beauty tech innovations
 
-适用场景：
-- 化妆品品牌市场部：实时监控品牌舆情、竞品动态
-- 美妆自媒体/博主：快速获取行业热点，创作灵感来源
-- 化妆品研发团队：追踪成分趋势、消费者关注点
-- 美妆电商运营：把握行业动态，优化选品策略
+**Use Cases:**
+- **Brand Marketing Teams**: Monitor brand sentiment, competitor activity in real-time
+- **Beauty Influencers/Bloggers**: Get industry hotspots, content inspiration instantly
+- **R&D Teams**: Track ingredient trends, consumer preferences
+- **E-commerce Operations**: Stay ahead of industry dynamics, optimize product selection
 
-## ✨ 核心功能
+## ✨ Core Features
 
-### **化妆品行业全网热点聚合**
+### **Global Beauty Industry Trend Aggregation**
 
-- 小红书 - 美妆种草第一平台
-- 抖音美妆 - 美妆短视频热点
-- 微博 - 美妆话题讨论
-- bilibili 美妆 - 美妆视频教程
-- 知乎 - 美妆知识问答
-- 今日头条 - 美妆资讯
-- 百度热搜 - 美妆热门搜索
-- 贴吧 - 美妆社区讨论
+- **Hacker News** - US Tech & Business, beauty tech innovations
+- **Product Hunt** - US Product Launches, new beauty products & apps
+- **GitHub Trending** - Global open-source beauty tech projects
+- **V2EX** - Global tech community, international discussions
+- **36Kr** - Global startups, beauty industry startups
+- **Wall Street CN** - Global business, beauty market & finance
+- **Solidot** - Science & tech, beauty innovations
+- **Reddit** - Global community, beauty subreddits
+- **Zaobao** - Singapore/Asia, regional beauty trends
 
-默认监控 8 个美妆相关主流平台，聚焦化妆品行业资讯，也可自行增加额外的平台
+Monitors **9 global platforms** covering US, European & Asian markets. Additional platforms can be added as needed.
 
 <details id="自定义监控平台">
 <summary><strong>👉 点击展开：自定义监控平台</strong></summary>

@@ -75,22 +75,24 @@ weight:
   frequency_weight: 0.3 # 频次权重
   hotness_weight: 0.1 # 热度权重
 
-# name 可以定义任意名称，只具有显示作用，即使项目运行了几天后，忽然改掉 name 也不会影响代码的正常运行
-# 化妆品专用平台配置 - 聚焦美妆护肤热点趋势
+# Global Cosmetics Industry Trend Radar - US, Europe & Asia Markets
+# Platform configuration for international beauty & cosmetics trends
 platforms:
-  - id: "xiaohongshu"
-    name: "小红书"  # 美妆种草第一平台
-  - id: "douyin"
-    name: "抖音美妆"  # 美妆短视频热点
-  - id: "weibo"
-    name: "微博"  # 美妆话题讨论
-  - id: "bilibili-hot-search"
-    name: "bilibili 美妆"  # 美妆视频教程
-  - id: "zhihu"
-    name: "知乎"  # 美妆知识问答
-  - id: "toutiao"
-    name: "今日头条"  # 美妆资讯
-  - id: "baidu"
-    name: "百度热搜"  # 美妆热门搜索
-  - id: "tieba"
-    name: "贴吧"  # 美妆社区讨论
+  - id: "hackernews"
+    name: "Hacker News"  # US Tech & Business - Beauty tech innovations
+  - id: "producthunt"
+    name: "Product Hunt"  # US Product Launches - New beauty products & apps
+  - id: "github"
+    name: "GitHub Trending"  # Global Open Source - Beauty tech projects
+  - id: "v2ex"
+    name: "V2EX"  # Global Tech Community - International discussions
+  - id: "36kr"
+    name: "36Kr"  # Global Startups - Beauty industry startups
+  - id: "wallstreetcn-hot"
+    name: "Wall Street CN"  # Global Business - Beauty market & finance
+  - id: "solidot"
+    name: "Solidot"  # Science & Tech - Beauty innovations
+  - id: "reddit"
+    name: "Reddit"  # Global Community - Beauty subreddits
+  - id: "zaobao"
+    name: "Zaobao"  # Singapore/Asia - Regional beauty trends
